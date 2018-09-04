@@ -45,3 +45,10 @@
         border-spacing: 0;
       }
       
+      * {
+          font-family: times;
+      }
+        
+      body {
+          background: #fff;
+      }      
