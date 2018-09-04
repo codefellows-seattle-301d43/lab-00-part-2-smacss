@@ -2,6 +2,8 @@
 
 Make sure you have read [the intro to SMACSS](http://www.anotheruiguy.com/ux-design-dev/_book/smacss/README.html) before working on this assignment. The documentation and guidelines below are open to interpretation, rather than hard and fast guidelines that must be adhered to. Be careful not to spend a lot of time debating the exact correct file for a specific selector; rather, organize your selectors in a way that is meaningful to your project and will make it easier to find and modify those selectors in the future.
 
+You can also find more information in the [SMACSS Official Documentation](https://smacss.com/), for reference.
+
 ## General Guidelines:
 
 - Styling should progress from broadest to most specific
